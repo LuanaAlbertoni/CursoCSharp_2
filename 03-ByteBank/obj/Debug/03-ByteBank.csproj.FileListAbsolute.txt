@@ -1,0 +1,7 @@
+C:\Users\Iara\source\repos\ByteBank\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Iara\source\repos\ByteBank\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Iara\source\repos\ByteBank\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Iara\source\repos\ByteBank\ConsoleApp1\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\ByteBank\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Iara\source\repos\ByteBank\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Iara\source\repos\ByteBank\ConsoleApp1\obj\Debug\03-ByteBank.csprojAssemblyReference.cache
