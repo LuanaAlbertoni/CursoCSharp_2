@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Parte 7 do curso 2. 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
