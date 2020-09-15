@@ -1,0 +1,7 @@
+C:\Users\Iara\Desktop\Teste\CursoCSharp_2\02-ByteBank\bin\Debug\02 - ByteBank.exe.config
+C:\Users\Iara\Desktop\Teste\CursoCSharp_2\02-ByteBank\bin\Debug\02 - ByteBank.exe
+C:\Users\Iara\Desktop\Teste\CursoCSharp_2\02-ByteBank\bin\Debug\02 - ByteBank.pdb
+C:\Users\Iara\Desktop\Teste\CursoCSharp_2\02-ByteBank\obj\Debug\02-ByteBank.csprojAssemblyReference.cache
+C:\Users\Iara\Desktop\Teste\CursoCSharp_2\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Iara\Desktop\Teste\CursoCSharp_2\02-ByteBank\obj\Debug\02 - ByteBank.exe
+C:\Users\Iara\Desktop\Teste\CursoCSharp_2\02-ByteBank\obj\Debug\02 - ByteBank.pdb
